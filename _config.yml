@@ -4,10 +4,10 @@
 permalink:           pretty
 
 # Setup
-title:               Ifiok
+title:               Ifiok Idiang
 description:         'DevOps Engineer from somewhere'
 url:                 https://ifiok.github.io
-baseurl:             'https://ifiok.github.io'
+baseurl:             https://ifiok.github.io
 paginate:            5
 
 # About/contact
@@ -15,6 +15,8 @@ author:
   name:              Ifiok Idiang
   url:               https://twitter.com/ifiokidiang
   email:             ifiok@ifiok.com
+
+timezone: 'Africa/Lagos'
 
 # Custom vars
 version:             1.0.0
