@@ -7,7 +7,7 @@ permalink:           pretty
 title:               Ifiok
 description:         'DevOps Engineer from somewhere'
 url:                 https://ifiok.github.io
-baseurl:             ''
+baseurl:             'https://ifiok.github.io'
 paginate:            5
 
 # About/contact
