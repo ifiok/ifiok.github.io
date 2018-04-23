@@ -2,13 +2,11 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
 
 # Setup
 title:               Ifiok
-tagline:             'A Jekyll theme'
 description:         'DevOps Engineer from somewhere'
-url:                 http://ifiok.com
+url:                 https://ifiok.github.io
 baseurl:             ''
 paginate:            5
 
